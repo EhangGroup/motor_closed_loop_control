@@ -1,1 +1,1 @@
-# motor_closed_loop_control
+直流减速电机的速度环与位置环控制
